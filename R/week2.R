@@ -1,2 +1,7 @@
 # Import and Labeling
-rt_df <- data.frame(".../data/week2.csv", header = TRUE)
+rt_df <- read.csv("week2.csv", header=TRUE)
+condition labels
+gender labels
+
+# Analysis
+mean(rt_df$rt)
