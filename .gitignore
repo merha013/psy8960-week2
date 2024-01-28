@@ -2,4 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+<<<<<<< HEAD
 *.csv
+=======
+>>>>>>> cd3c8e56a1a32a83fb09f31365454e816fbb9566
